@@ -86,6 +86,9 @@ Login/Sign Up
 -NetflixGPT
  - Search Bar
  - Movie Suggestions
-             
+
 -> Create react app
 -> Configured Tailwind CSS
+-> Header
+->Login Form
+->Sign up
